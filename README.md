@@ -1,5 +1,5 @@
 # Genre_classification
-Music Genre Prediction System using Audio and Lyrics Models
+Music Genre Prediction System using Audio and Lyrics Ensemble Models
 
 1. audio_analysis/Audio EDA v0.1ss.ipynb: 
 The code contains:
