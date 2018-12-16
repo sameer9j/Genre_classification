@@ -4,7 +4,7 @@ Purpose: To create a model, which automatically predicts the genre of any new mu
 
 Tools Used: Jupyter Notebook, Python
 
-Overview of what each code is used for:
+Overview of each code:
 
 1. audio_analysis/Audio EDA v0.1ss.ipynb: 
 The code contains:
