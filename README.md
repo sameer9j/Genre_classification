@@ -1,6 +1,4 @@
-# Genre_classification
-
-Title: Music Genre Prediction System using Audio and Lyrics Ensemble Models
+# Music Genre Prediction System using Audio and Lyrics Ensemble Models
 
 Purpose: To create a model, which automatically predicts the genre of any new music developed by a user. It could help new song streaming websites in easily identifying the genres of songs.
 
