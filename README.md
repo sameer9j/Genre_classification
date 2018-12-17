@@ -17,7 +17,7 @@ The code contains:
   
   * Ensemble models
 
-3. Text Modeling (5000 words, 1000 word) - text_analysis/final_text_analysis_Saurav.ipynb
+3. Text Modeling (5000 words, 1000 word) - text_analysis/final_text_analysis.ipynb
 The code contains:
 
   * Text Modeling - Random Forest, Gradient Boosting, Multilayer Perceptron
@@ -25,18 +25,13 @@ The code contains:
   * Ensemble Model
 
 4. Text EDA - data_eda/word_cloud.ipynb
-
-5. Tree_MLP_Oversampling Analysis.ipynb: 
-The code contains:
-
-  * Boosting, random forest, knn(No PCA), MLP, Oversampling for Audio
  
-6. Ensemble Boosting.ipynb: 
+5. Ensemble Boosting.ipynb: 
 The code contains:
 
   * Boosting for ensemble 
 
-7. LyricBagofWordsClassifier.ipynb
+6. LyricBagofWordsClassifier.ipynb
 This code contains:
 
   * Text modeling (500 word) - Random Forest, SVM, KNN, Logistic Regression
