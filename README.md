@@ -1,6 +1,6 @@
 # Music Genre Prediction System using Audio and Lyrics Ensemble Models
 
-Purpose: To create a model, which automatically predicts the genre of any new music developed by a user. It could help new song streaming websites in easily identifying the genres of songs.
+Purpose: To create a model, which automatically predicts the genre of any new music developed by a user. An ideal use case would be - song streaming websites using the system to easily identify song genres for unlabelled songs.
 
 Tools Used: Jupyter Notebook, Python
 
