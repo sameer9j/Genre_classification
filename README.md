@@ -2,6 +2,8 @@
 
 Purpose: To create a model, which automatically predicts the genre of any new music developed by a user. An ideal use case would be - song streaming websites using the system to easily identify song genres for unlabelled songs.
 
+Techniques used: SVM, KNN, Logistic Regression, Random Forest, Gradient Boosting, Multilayer Perceptron
+
 Tools Used: Jupyter Notebook, Python
 
 Overview of each code:
